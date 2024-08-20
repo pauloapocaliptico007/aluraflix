@@ -1,0 +1,13 @@
+body{
+background-color: rgb(232, 247, 247);
+color:darkblue;
+display:flex;
+justify-content: center;
+align-items: center;
+right: 700px;
+margin: 0;
+
+}
+button{
+    background-color: blueviolet;
+}
